@@ -1,6 +1,6 @@
 # Hallo, hallo ik ben Martijn 👋
 
-UX/UI Enthousiasteling | Beginnnen front-end developer | Genieter van woordgrapjes
+UX/UI Enthousiasteling | Beginnend front-end developer | Genieter van woordgrapjes
 
 Hier vind je mijn projecten en leerprocessen 
 
