@@ -1,4 +1,7 @@
-# Hallo, hallo 👋
+# Hallo, hallo ik ben Martijn 👋
+
+UX/UI Enthousiasteling | Beginnnen front-end developer | Genieter van woordgrapjes
+Hier vind je mijn projecten en leerprocessen 
 
 <!--
 **mviersel/mviersel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
